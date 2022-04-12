@@ -1,3 +1,3 @@
 # linkedin-clone 
 followed patika.dev
-<img src"ss.png"
+<img src"ss.png">
